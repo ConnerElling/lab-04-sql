@@ -1,0 +1,5 @@
+post_id	username	title	posted_at
+7	corner_cafe	Coffee rankings	2026-08-03 08:10:00
+8	wahoowa	Move-in week	2026-08-20 16:50:00
+9	datadude	Data engineering	2026-09-08 11:35:00
+10	blueridge	Hiking Humpback	2026-09-21 07:30:00
